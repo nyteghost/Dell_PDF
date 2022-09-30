@@ -8,7 +8,7 @@ import pandas as pd
 import re
 import os
 
-filepath = "C:\\Users\\Mbrown\\Southeastern Computer Associates, LLC\\GCA Deployment - Documents\\Database\\2022.06.17 1250 CB Order Packing Slips\Delivered\\"
+filepath = ""
 fileExt = ".pdf"
 
 
